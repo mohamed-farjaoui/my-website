@@ -1,0 +1,9 @@
+.btn-blue {
+  background-color: #9BBEC8;
+  padding: 15px 40px;
+  border-right: 4px;
+  color: white;
+  font-weight: bold;
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+}
